@@ -13,7 +13,7 @@ vector<vm> vms;
 
 //class vm for holding vm's data
 class vm{
-    string name, fileName, OSType, stat="OFF";
+    string name, fileName, OSType, stat;
     int diskSize, memorySize;
 
  public:
