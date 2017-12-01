@@ -1,0 +1,8 @@
+ubuntu|fileubuntu|linux|Running|200000|2000
+Fedora|fileubuntu|linux|OFF|200000|2300
+Arch|arch.vm|Ubuntu|OFF|200000|2022
+test|File.vm|bsd|Suspended|50000|90000
+test|File.vm|bsd|OFF|50000|8000
+test|File.vm|org|OFF|50000|8000
+test4|test4.vm|Ubuntu|OFF|200000|90000
+test5|test5.vm|Ubuntu|OFF|200000|90000
